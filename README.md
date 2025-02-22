@@ -4,7 +4,6 @@ A Flutter package for encoding and decoding real-time audio streams using OPUS. 
 
 ## Features
 
-**Note:** This package uses `libopus` version 1.5.2 for encoding and decoding audio streams.
 - Encode PCM audio streams to OPUS format.
 - Decode OPUS-encoded streams back to PCM.
 
@@ -12,7 +11,6 @@ A Flutter package for encoding and decoding real-time audio streams using OPUS. 
 
 **Note:** This package uses `libopus` version 1.5.2 for Android and version 1.3.1 for iOS.
 
-Add this package to your `pubspec.yaml` file:
 Add this package to your `pubspec.yaml` file:
 
 ```yaml
