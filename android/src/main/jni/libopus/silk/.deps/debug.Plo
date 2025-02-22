@@ -1,0 +1,3 @@
+silk/debug.lo: silk/debug.c config.h silk/debug.h
+config.h:
+silk/debug.h:
