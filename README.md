@@ -17,8 +17,8 @@ Add this package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  your_package_name:
-    path: your/local/path 
+  stream_opus:
+    git: https://github.com/mustafa-kh-98/stream_opus.git
 ```
 
 ## Usage
