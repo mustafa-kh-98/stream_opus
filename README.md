@@ -60,6 +60,3 @@ final decoder = StreamOpusDecoder.bytes(
 Stream<Uint8List> pcmStream = opusStream.transform(decoder);
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
